@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firstReactProject/static/css/main.4d29ff09.css",
+    "main.js": "/firstReactProject/static/js/main.d1481291.js",
+    "static/js/453.57322c99.chunk.js": "/firstReactProject/static/js/453.57322c99.chunk.js",
+    "static/media/a2.jpg": "/firstReactProject/static/media/a2.68228070963442a94cb4.jpg",
+    "static/media/img2.jpg": "/firstReactProject/static/media/img2.f418a5e2ec540262028b.jpg",
+    "static/media/img5.jpg": "/firstReactProject/static/media/img5.9524cce3a15fe6065f62.jpg",
+    "static/media/img3.jpg": "/firstReactProject/static/media/img3.7b49c1d043684fd47523.jpg",
+    "static/media/img1.jpg": "/firstReactProject/static/media/img1.9f45d8927c90991ef7e1.jpg",
+    "static/media/img4.jpg": "/firstReactProject/static/media/img4.4650deb023e9f831a082.jpg",
+    "static/media/f4.png": "/firstReactProject/static/media/f4.ad9a7e8f300f1b06e476.png",
+    "static/media/f3.png": "/firstReactProject/static/media/f3.c2387adbe683a4d5463e.png",
+    "static/media/pex.jpg": "/firstReactProject/static/media/pex.75d1127de1b03ac28726.jpg",
+    "index.html": "/firstReactProject/index.html",
+    "main.4d29ff09.css.map": "/firstReactProject/static/css/main.4d29ff09.css.map",
+    "main.d1481291.js.map": "/firstReactProject/static/js/main.d1481291.js.map",
+    "453.57322c99.chunk.js.map": "/firstReactProject/static/js/453.57322c99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d29ff09.css",
+    "static/js/main.d1481291.js"
+  ]
+}
